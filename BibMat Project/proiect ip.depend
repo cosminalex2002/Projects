@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1641922185 source:c:\users\cosmin\desktop\proiect ip\main.cpp
+	<iostream>
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+
